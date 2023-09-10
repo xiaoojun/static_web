@@ -5,21 +5,16 @@
     "banners": [
         {
             "url": "https://alexpng.github.io/depictions/com.alexpng.darkpapers/banner.png",
-            "title": "DarkPapers",
+            "title": "重启桌面",
             "package": "com.xiaojun.mm",
             "hideShadow": true
         },
         {
             "url": "https://alexpng.github.io/depictions/com.alexpng.tapme/banner.png",
-            "title": "TapMe",
+            "title": "点我",
             "package": "com.xiaojun.mm",
             "hideShadow": false
-        },
-        {
-            "url": "https://repo-cdn.dynastic.co/91373858589769729.97ea6548c456372ba1ba0e6640e7e73f-750?size=750",
-            "title": "ShortLook",
-            "package": "co.dynastic.ios.tweak.shortlook",
-            "hideShadow": false
         }
+       
     ]
 }
