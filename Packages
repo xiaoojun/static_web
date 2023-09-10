@@ -1,0 +1,33 @@
+Package: com.yourcompany.pop
+Name: POP
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: xiaojun
+Author: xiaojun
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/m.deb
+
+Package: com.xiaojun.mm
+Architecture: iphoneos-arm
+Version: 2.0-1+debug
+Section: Tweaks
+Maintainer: Little 34306
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/mm .deb
+Description: xxxxxx
+Name: xiaojjjj
+Author: xiaojun
+SileoDepiction: http://192.168.31.92:8000/sileodepictions/depiction.json
+
+Package: com.34306.2nd
+Architecture: iphoneos-arm
+Version: 2.0-1+debug
+Section: Tweaks
+Maintainer: Little 34306
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/mmm .deb
+Description: xxxxxx
+Name: xiosssss
+Author: xiaojun

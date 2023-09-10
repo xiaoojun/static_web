@@ -1,0 +1,162 @@
+{
+	"minVersion": "0.4",
+	"headerImage": "http://192.168.31.92:8000/assets/Banners/Darkify.png",
+	"tintColor": "#3f4090",
+	"backgroundColor": "#ffffff",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"xPadding": 0,
+			"views": [
+				{
+					"itemCornerRadius": 40,
+					"itemSize": "{480, 275.41333333333336}",
+					"screenshots": [
+						{
+							"accessibilityText": "Showcase",
+							"url": "http://192.168.31.92:8000/depictions/com.struggling.darkify/screenshots/s1.png"
+							 
+						},
+						{
+							"accessibilityText": "Showcase",
+							"url": "http://192.168.31.92:8000/depictions/com.struggling.darkify/screenshots/s1.png"
+							 
+						},
+						{
+							"accessibilityText": "Showcase",
+							"url": "http://192.168.31.92:8000/depictions/com.struggling.darkify/screenshots/s1.png"
+							 
+						}
+					],
+				 
+					"class": "DepictionScreenshotsView"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## Darkify\nDarkify is a dark theme for all iOS devices that keeps all icons fimiliar looking but with a dark grey gradient and adds a bit more depth to the icons."
+				},
+				{
+					"title": "Suggest icons here!",
+					"action": "https://forms.gle/x38ZhSwcx3wreiUUA",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "Latest Version",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "Version",
+					"text": "0.2-2",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Released",
+					"text": "4/30/19",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "FREE",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "StrugglingDoge",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Github",
+					"action": "https://github.com/StrugglingDoge",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 50,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "0.2-2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Adds 35+ new icons.",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 4/30/19</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "哈哈哈哈",
+			"views": [
+				{
+					"title": "0.2-2",
+					"class": "DepictionHeaderView",
+					"alignment": 1
+					 
+				},	
+
+				{
+					"title": "0.2-2",
+					"class": "DepictionSubheaderView",
+					"alignment": 1
+					 
+				},
+
+				{
+					"title": "我是标签",
+					"class": "DepictionLabelView",
+					"alignment": 1
+					 
+				},
+
+				{
+					"title": "哈哈哈",
+					"text": "aahahh",
+					"class": "DepictionTableTextView"
+				},
+				 {
+					"title": "我是按钮",
+					"action": "https://www.baidu.com/",
+					"class": "DepictionTableButtonView"
+				},
+
+				{
+					"title": "啊啊哈哈",
+					"action": "https://www.baidu.com/",
+					"class": "DepictionButtonView"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionRatingView",
+					"rating": 3,
+					"alignment": 1
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView",
+	
+}

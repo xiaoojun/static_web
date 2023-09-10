@@ -1,0 +1,25 @@
+{
+    "class": "FeaturedBannersView",
+    "itemSize": "{263, 148}",
+    "itemCornerRadius": 10,
+    "banners": [
+        {
+            "url": "https://alexpng.github.io/depictions/com.alexpng.darkpapers/banner.png",
+            "title": "DarkPapers",
+            "package": "com.xiaojun.mm",
+            "hideShadow": true
+        },
+        {
+            "url": "https://alexpng.github.io/depictions/com.alexpng.tapme/banner.png",
+            "title": "TapMe",
+            "package": "com.xiaojun.mm",
+            "hideShadow": false
+        },
+        {
+            "url": "https://repo-cdn.dynastic.co/91373858589769729.97ea6548c456372ba1ba0e6640e7e73f-750?size=750",
+            "title": "ShortLook",
+            "package": "co.dynastic.ios.tweak.shortlook",
+            "hideShadow": false
+        }
+    ]
+}

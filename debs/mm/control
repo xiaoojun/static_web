@@ -1,0 +1,10 @@
+Package: com.xiaojun.mm
+Name: MM
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: xiaojun
+Author: xiaojun
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Version: 2.0-1+debug
+Installed-Size: 152
