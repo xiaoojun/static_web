@@ -1,4 +1,4 @@
-Origin: CYR580's Repo
+Origin: XXXXXX
 Label: cyr580
 Suite: stable
 Version: 1.0
@@ -8,6 +8,4 @@ Components: main
 Description: CYR580's Repo
 MD5Sum:
  2ba056c2a86ce3b0b645c5121b1eeae2  Packages
- 87fe6907ddce03486bce937502ce4094  Packages.bz2
- 2067b23dbd9cf5eec277cdca9b46ef72  Packages.gz
 
