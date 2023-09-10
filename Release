@@ -1,8 +1,13 @@
-Origin: 小军的软件库
-Label: 小军
+Origin: CYR580's Repo
+Label: cyr580
 Suite: stable
-Version: 1.1
-Codename: ios
+Version: 1.0
+Codename: cyr580
 Architectures: iphoneos-arm
 Components: main
-Description: 描述描述描述
+Description: CYR580's Repo
+MD5Sum:
+ 2ba056c2a86ce3b0b645c5121b1eeae2  Packages
+ 87fe6907ddce03486bce937502ce4094  Packages.bz2
+ c0156cf78a851a0b6d0a83859d4c05a7  Packages.gz
+
