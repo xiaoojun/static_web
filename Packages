@@ -19,7 +19,7 @@ Filename: ./debs/mm .deb
 Description: xxxxxx
 Name: xiaojjjj
 Author: xiaojun
-SileoDepiction: http://192.168.31.92:8000/sileodepictions/depiction.json
+SileoDepiction: https://xiaoojun.github.io/static_web/sileodepictions/depiction.json
 
 Package: com.34306.2nd
 Architecture: iphoneos-arm

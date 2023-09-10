@@ -1,6 +1,6 @@
 {
 	"minVersion": "0.4",
-	"headerImage": "http://192.168.31.92:8000/assets/Banners/Darkify.png",
+	"headerImage": "https://xiaoojun.github.io/static_web/assets/Banners/Darkify.png",
 	"tintColor": "#3f4090",
 	"backgroundColor": "#ffffff",
 	"tabs": [
@@ -14,17 +14,17 @@
 					"screenshots": [
 						{
 							"accessibilityText": "Showcase",
-							"url": "http://192.168.31.92:8000/depictions/com.struggling.darkify/screenshots/s1.png"
+							"url": "https://xiaoojun.github.io/static_web/depictions/com.struggling.darkify/screenshots/s1.png"
 							 
 						},
 						{
 							"accessibilityText": "Showcase",
-							"url": "http://192.168.31.92:8000/depictions/com.struggling.darkify/screenshots/s1.png"
+							"url": "https://xiaoojun.github.io/static_web/depictions/com.struggling.darkify/screenshots/s1.png"
 							 
 						},
 						{
 							"accessibilityText": "Showcase",
-							"url": "http://192.168.31.92:8000/depictions/com.struggling.darkify/screenshots/s1.png"
+							"url": "https://xiaoojun.github.io/static_web/depictions/com.struggling.darkify/screenshots/s1.png"
 							 
 						}
 					],
