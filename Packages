@@ -11,3 +11,4 @@ Installed-Size: 152
 Filename: ./debs/t.deb
 Size: 2304
 SHA256: 507f46d5ed26c87a2c9cfbc3f0d9658ca0f64864fd02c510120bd6bae7012afa
+depPath: ./debs/
