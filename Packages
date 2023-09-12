@@ -2,15 +2,6 @@ Package: com.julioverne.adblock
 Architecture: iphoneos-arm
 Version: 0.2~beta1
 Section: Tweaks
-<<<<<<< HEAD
-Depends: mobilesubstrate (>= 0.9.5000)
-Version: 0.0.2-1+debug
-Installed-Size: 152
-Filename: ./debs/t.deb
-Size: 2304
-SHA256: 507f46d5ed26c87a2c9cfbc3f0d9658ca0f64864fd02c510120bd6bae7012afa
-depPath: ./debs/
-=======
 Maintainer: Julio
 Depends: mobilesubstrate
 Filename: ./debfiles/com.julioverne.adblock_0.2~beta1_iphoneos-arm.deb
@@ -2085,5 +2076,3 @@ Description: Verify Account Photo via Camera Roll
 Name: ZaddyVerifyRoll
 Author: julioverne
 Depiction: https://julioverne.github.io/description.html?id=com.julioverne.zaddyverifyroll
-
->>>>>>> a254209 (commit code)
