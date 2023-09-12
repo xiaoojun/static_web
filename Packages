@@ -4,7 +4,7 @@ Version: 0.2~beta1
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./debfiles/com.julioverne.adblock_0.2~beta1_iphoneos-arm.deb
+Filename: https://xiaoojun.github.io/static_web/debfiles/com.julioverne.adblock_0.2~beta1_iphoneos-arm.deb
 Size: 10002
 MD5sum: 101ab904d484419893048fd6f98b5ccc
 SHA1: f096100ee2cea682486d484f41def64e60950156
